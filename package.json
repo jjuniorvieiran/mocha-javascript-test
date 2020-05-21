@@ -1,0 +1,23 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "Simple app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorhc/mocha-javascript-test.git"
+  },
+  "author": "Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorhc/mocha-javascript-test/issues"
+  },
+  "homepage": "https://github.com/juniorhc/mocha-javascript-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
